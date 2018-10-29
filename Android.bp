@@ -1,7 +1,7 @@
 cc_library {
     name: "libvorbisidec",
     vendor_available: true,
-    sdclang: false,
+//    sdclang: false,
     vndk: {
         enabled: true,
     },
